@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+#===============================================
+# See https://en.wikipedia.org/wiki/Dipole_antenna
+#===============================================
+
+
 
 from math import sin, cos, log
 from scipy.special import sici
