@@ -88,7 +88,18 @@ length = 0.93
 diameter = 0.00635
 #diameter = 0.009525
 
-#velocity factor
+
+#Velocity factor of various materials:	
+#Copper tubing	0.95
+#Brass tubing	0.95
+#Aluminum tubing	0.94
+#Home depot aluminum rod 0.9 (measured with rigexpert a30)
+#Steel	0.9
+#Stainless Steel	*
+#Iron	0.9
+#Copper wire	0.9-0.85
+#Note that dielectric of the wire adds another ~0.95
+
 velocity = 0.90
 
 # in ohms
