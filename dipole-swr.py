@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #===============================================
 # See https://en.wikipedia.org/wiki/Dipole_antenna
+# Original author https://ham.stackexchange.com/questions/6481/calculating-bandwidth-of-antenna
 #===============================================
 
 
