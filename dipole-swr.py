@@ -94,7 +94,6 @@ diameter = 0.00635
 #Copper tubing	0.95
 #Brass tubing	0.95
 #Aluminum tubing	0.94
-#Home depot aluminum rod 0.9 (measured with rigexpert a30)
 #Steel	0.9
 #Stainless Steel	*
 #Iron	0.9
